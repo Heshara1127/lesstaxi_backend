@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "title": "QUEENS CORRIDOR VIP SEAT",
+    "location": "KANDY",
+    "reviews": 0,
+    "price": 51000,
+    "discountPrice": 40800,
+    "capacity": 50,
+    "purchased": 38,
+    "imageUrl": "/images/kandy.jpg",
+    "features": [
+      "Premium seating at Queens Hotel corridor (VIP Lounge)",
+      "Perfect viewing",
+      "Arch 10,11,12,13",
+      "Only the 1 & 2 rows have cushioned seats",
+      "Limited Seats"
+    ],
+    "expiry": "2025-08-13T12:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "EXPERIENCE 5 STAR LUXURY AMIDST MISTY HILLTOPS",
+    "location": "KANDY",
+    "reviews": 2670,
+    "price": 45000,
+    "discountPrice": 43000,
+    "capacity": 100,
+    "purchased": 6,
+    "imageUrl": "/images/bed.jpg",
+    "features": [
+      "private balcony",
+      "free breakfast & dinner",
+      "complimentary  spa access"
+    ],
+    "expiry": "2025-08-14T18:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "STAY 2 NIGHTS AND ENJOY A FULL CULINARU EXPERIENCE",
+    "location": "KANDY",
+    "reviews": 7680,
+    "price": 68000,
+    "discountPrice": 63000,
+    "capacity": 100,
+    "purchased": 8,
+    "imageUrl": "/images/bed1.jpg",
+    "features": [
+      "Buffet spreads , street food nights",
+      "20% off a la carte dining"
+    ],
+    "expiry": "2025-08-14T18:30:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "STAY 3 NIGHTS , PAY FOR 2",
+    "location": "KANDY  ",
+    "reviews": 7680,
+    "price": 80000,
+    "discountPrice": 73000,
+    "capacity": 100,
+    "purchased": 6,
+    "imageUrl": "/images/bed2.jpg",
+    "features": [
+      "Enjoy complimentary dinner on your",
+      "Final night and a free room upgrade"
+    ],
+    "expiry": "2025-08-14T18:30:00.000Z"
+  },
+  {
+    "id": 5,
+    "title": "3000LKR OFF INTERNATIONAL BUFFET FOR 2",
+    "location": "COLOMBO ",
+    "reviews": 7680,
+    "price": 15000,
+    "discountPrice": 12000,
+    "capacity": 100,
+    "purchased": 6,
+    "imageUrl": "/images/bed2.jpg",
+    "features": [
+      "International Buffet for 2",
+      "Valid from 14th July to 25th July"
+    ],
+    "expiry": "2025-08-14T18:30:00.000Z"
+  },
+  {
+    "id": 6,
+    "title": "Discover Colombo in 4 Hours - Tuk-Tuk City Adventure",
+    "location": "COLOMBO ",
+    "reviews": 7680,
+    "price": 15000,
+    "discountPrice": 12000,
+    "capacity": 100,
+    "purchased": 5,
+    "imageUrl": "/images/colombo.jpg",
+    "features": [
+      "private balcony",
+      "free breakfast",
+      "spa access"
+    ],
+    "expiry": "2025-08-14T18:30:00.000Z"
+  }
+]
