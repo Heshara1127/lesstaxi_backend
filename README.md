@@ -7,7 +7,7 @@ This is the **backend** of the LessTaxi application, built with **Node.js** and 
 ### 1. Install Dependencies
 
 ```bash
-cd backend
+
 npm install
 
 
